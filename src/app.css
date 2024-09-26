@@ -1,0 +1,37 @@
+@font-face {
+    font-family: JetBrains;
+    src: url("/fonts/JetBrainsMono-Regular.ttf") format("truetype");
+}
+body {
+    background-color: #121212;
+    height: 100vh;
+    margin: 0;
+}
+#app {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p,
+a,
+div,
+button {
+    color: black;
+    font-family: JetBrains, monospace;
+}
+nav {
+    position: absolute;
+    top: 4rem;
+    left: 4rem;
+    & a {
+        all: unset;
+        background-color: white;
+        cursor: pointer;
+        color: black;
+        font-size: 1.5rem;
+        border-radius: 0.4rem;
+        padding: 0.5rem 1.5rem;
+    }
+}

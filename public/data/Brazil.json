@@ -1,0 +1,41 @@
+{
+  "Acre": { "id": "Acre", "name": "Acre" },
+  "Rond\u00f4nia": { "id": "Rond\u00f4nia", "name": "Rond\u00f4nia" },
+  "Roraima": { "id": "Roraima", "name": "Roraima" },
+  "Amazonas": { "id": "Amazonas", "name": "Amazonas" },
+  "Par\u00e1": { "id": "Par\u00e1", "name": "Par\u00e1" },
+  "Mato_Grosso_do_Sul": {
+    "id": "Mato_Grosso_do_Sul",
+    "name": "Mato Grosso do Sul"
+  },
+  "Amap\u00e1": { "id": "Amap\u00e1", "name": "Amap\u00e1" },
+  "Mato_Grosso": { "id": "Mato_Grosso", "name": "Mato Grosso" },
+  "Paran\u00e1": { "id": "Paran\u00e1", "name": "Paran\u00e1" },
+  "Distrito_Federal": { "id": "Distrito_Federal", "name": "Distrito Federal" },
+  "Goi\u00e1s": { "id": "Goi\u00e1s", "name": "Goi\u00e1s" },
+  "Tocantins": { "id": "Tocantins", "name": "Tocantins" },
+  "S\u00e3o_Paulo": { "id": "S\u00e3o_Paulo", "name": "S\u00e3o Paulo" },
+  "Maranh\u00e3o": { "id": "Maranh\u00e3o", "name": "Maranh\u00e3o" },
+  "Rio_de_Janeiro": { "id": "Rio_de_Janeiro", "name": "Rio de Janeiro" },
+  "Piau\u00ed": { "id": "Piau\u00ed", "name": "Piau\u00ed" },
+  "Minas_Gerais": { "id": "Minas_Gerais", "name": "Minas Gerais" },
+  "Esp\u00edrito_Santo": {
+    "id": "Esp\u00edrito_Santo",
+    "name": "Esp\u00edrito Santo"
+  },
+  "Bahia": { "id": "Bahia", "name": "Bahia" },
+  "Cear\u00e1": { "id": "Cear\u00e1", "name": "Cear\u00e1" },
+  "Sergipe": { "id": "Sergipe", "name": "Sergipe" },
+  "Alagoas": { "id": "Alagoas", "name": "Alagoas" },
+  "Rio_Grande_do_Norte": {
+    "id": "Rio_Grande_do_Norte",
+    "name": "Rio Grande do Norte"
+  },
+  "Pernambuco": { "id": "Pernambuco", "name": "Pernambuco" },
+  "Para\u00edba": { "id": "Para\u00edba", "name": "Para\u00edba" },
+  "Santa_Catarina": { "id": "Santa_Catarina", "name": "Santa Catarina" },
+  "Rio_Grande_do_Sul": {
+    "id": "Rio_Grande_do_Sul",
+    "name": "Rio Grande do Sul"
+  }
+}
