@@ -33,32 +33,31 @@
     justify-content: center;
     text-align: center;
     gap: 5vh;
+}
+button,
+p {
+    all: unset;
 
-    & button,
-    & p {
-        all: unset;
+    height: 3vh;
+    border: 3px solid black;
+    padding: 0.5vh 2vh;
+    display: grid;
+    place-items: center;
 
-        height: 3vh;
-        border: 3px solid black;
-        padding: 0.5vh 2vh;
-        display: grid;
-        place-items: center;
-
-        border-radius: 0.5vh;
-        font-size: 2vh;
-        transition: 1s;
-    }
-    & p {
-        width: 25vh;
-        background-color: #e9ce76;
-    }
-    & button {
-        background-color: #5392c6;
-    }
-    .correct {
-        animation: animation-correct 0.5s ease-in-out;
-    }
-    .incorrect {
-        animation: animation-incorrect 0.5s ease-in-out;
-    }
+    border-radius: 0.5vh;
+    font-size: 2vh;
+    transition: 1s;
+}
+p {
+    width: 25vh;
+    background-color: #e9ce76;
+}
+button {
+    background-color: #5392c6;
+}
+.correct {
+    animation: animation-correct 0.5s ease-in-out;
+}
+.incorrect {
+    animation: animation-incorrect 0.5s ease-in-out;
 }

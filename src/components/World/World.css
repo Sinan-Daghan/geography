@@ -5,37 +5,35 @@
     align-items: center;
     gap: 5vh;
     width: 90%;
-
-    & button {
-        all: unset;
-        width: fit-content;
-        height: 3vh;
-        padding: 10px 50px;
-        border-radius: 1vh;
-        display: grid;
-        place-items: center;
-
-        background-color: white;
-        color: black;
-        border: 3px solid black;
-        font-size: 2vh;
-    }
-    & svg {
-        height: 80vh;
-        width: fit-content;
-        border: 1px solid gray;
-    }
-    & svg:hover {
-        cursor: grab;
-    }
-    & svg:active {
-        cursor: grabbing;
-    }
-    & path:hover {
-        cursor: pointer;
-    }
 }
+#World button {
+    all: unset;
+    width: fit-content;
+    height: 3vh;
+    padding: 10px 50px;
+    border-radius: 1vh;
+    display: grid;
+    place-items: center;
 
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+    font-size: 2vh;
+}
+#World svg {
+    width: 80vw;
+    height: fit-content;
+    border: 1px solid gray;
+}
+svg:hover {
+    cursor: grab;
+}
+svg:active {
+    cursor: grabbing;
+}
+path:hover {
+    cursor: pointer;
+}
 #info-box {
     position: absolute;
     top: 0;

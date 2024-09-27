@@ -25,13 +25,13 @@ nav {
     position: absolute;
     top: 4rem;
     left: 4rem;
-    & a {
-        all: unset;
-        background-color: white;
-        cursor: pointer;
-        color: black;
-        font-size: 1.5rem;
-        border-radius: 0.4rem;
-        padding: 0.5rem 1.5rem;
-    }
+}
+nav a {
+    all: unset;
+    background-color: white;
+    cursor: pointer;
+    color: black;
+    font-size: 1.5rem;
+    border-radius: 0.4rem;
+    padding: 0.5rem 1.5rem;
 }
